@@ -1,0 +1,6 @@
+*.egg-info/
+.tests_cache/
+__pycache__/
+.idea
+.python-version
+.venv
